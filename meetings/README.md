@@ -4,8 +4,9 @@ Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Ro
 
 * [20 February 2018](20180220.md)
     * Sanders & Mirabel 1996
+* [27 February 2018](20180227.md)
     * python introduction
-* 27 February 2018
+    * continue going through Sanders & Mirabel 1996
 * 06 March 2018
 * 13 March 2018
 * 20 March 2018
