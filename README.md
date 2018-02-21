@@ -2,6 +2,8 @@
 
 Galaxies reading group and python programming group.
 
+We have [meetings](meetings/README.md).
+
 ## Software
 
 * `anaconda` (python3.6 version): https://www.anaconda.com/download/
