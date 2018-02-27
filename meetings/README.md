@@ -9,7 +9,9 @@ Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Ro
     * continue going through Sanders & Mirabel 1996
 * 06 March 2018 - Spring Break, no meeting
 * 13 March 2018 - George on travel, no meeting
-* 20 March 2018
+* [20 March 2018](20180320.md)
+    * more python
+    * Evans et al. 2008
 * 27 March 2018
 * 03 April 2018
 * 10 April 2018
