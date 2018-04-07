@@ -13,7 +13,7 @@ Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Ro
     * more python
     * Evans et al. 2008
 * [27 March 2018](20180327.md)
-* 03 April 2018
+* [03 April 2018](20180403.md)
 * 10 April 2018
 * 17 April 2018
 * 24 April 2018
