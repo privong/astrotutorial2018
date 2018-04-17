@@ -2,6 +2,14 @@
 
 Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Room 217 (conference room).
 
+## 2018
+
+### Summer
+
+* [Sometime in May](201805__.md)
+
+### Spring
+
 * [20 February 2018](20180220.md)
     * Sanders & Mirabel 1996
 * [27 February 2018](20180227.md)
@@ -17,4 +25,3 @@ Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Ro
 * [10 April 2018](20180410.md)
 * [17 April 2018](20180417.md)
 * 24 April 2018 - George on travel, no meeting
-* 01 May 2018 (final exams week)
