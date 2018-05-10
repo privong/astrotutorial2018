@@ -10,6 +10,23 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
     * look at master dark/bias/flat frames
 * [24 May 2018](20180524.md)
     * version control
+* 28 May 2018
+* 31 May 2018
+* 04 June 2018
+* 07 June 2018
+* 11 June 2018
+* 12 June 2018
+* 18 June - 11 July 2018: No in-person meetings.
+* 12 July 2018
+* 16 July 2018
+* 19 July 2018
+* 23 July 2018
+* 26 July 2018
+* 30 July 2018
+* 02 August 2018
+* 06 August 2018
+* 09 August 2018
+
 
 ### Spring
 
