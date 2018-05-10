@@ -1,14 +1,16 @@
 # Meetings
 
-Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Room 217 (conference room).
-
 ## 2018
 
 ### Summer
 
-* [Sometime in May](201805__.md)
+Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall, Room 217 (conference room).
+
+* [21 May 2018](20180521.md)
 
 ### Spring
+
+Meetings take place on Tuesdays during Period 9 (16:05-16:55) in Bryant Hall, Room 217 (conference room).
 
 * [20 February 2018](20180220.md)
     * Sanders & Mirabel 1996
