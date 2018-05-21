@@ -9,7 +9,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * [21 May 2018](20180521.md)
     * look at master dark/bias/flat frames
 * [24 May 2018](20180524.md)
-    * version control
+    * 
 * 28 May 2018: No meeting (Memorial Day)
 * 31 May 2018
 * 04 June 2018
