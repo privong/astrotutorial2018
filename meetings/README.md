@@ -9,10 +9,11 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * [21 May 2018](20180521.md)
     * look at master dark/bias/flat frames
 * [24 May 2018](20180524.md)
+    * moving around in the terminal
+* 28 May 2018: No meeting (Memorial Day)
+* [31 May 2018](20180531.md)
     * CS courses
     * more on master bias frames
-* 28 May 2018: No meeting (Memorial Day)
-* 31 May 2018
 * 04 June 2018
 * 07 June 2018
 * 11 June 2018
