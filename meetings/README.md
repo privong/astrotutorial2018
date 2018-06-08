@@ -17,6 +17,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
     * CS courses
     * more about writing functions
 * [07 June 2018](20180607.md)
+    * plotting with matplotlib
 * 11 June 2018
 * 14 June - 11 July 2018: No in-person meetings.
 * 12 July 2018
