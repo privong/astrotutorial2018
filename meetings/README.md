@@ -21,7 +21,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * [11 June 2018](20180611.md)
 * 14 June - 16 July 2018: No in-person meetings.
 * [19 July 2018](20180719.md)
-* 23 July 2018
+* [23 July 2018](20180723.md)
 * 26 July 2018
 * 30 July 2018
 * 02 August 2018
