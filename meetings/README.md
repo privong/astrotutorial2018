@@ -22,7 +22,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * 14 June - 16 July 2018: No in-person meetings.
 * [19 July 2018](2018-Summer/20180719.md)
 * [23 July 2018](2018-Summer/20180723.md)
-* 26 July 2018
+* [26 July 2018](2018-Summer/20180726.md) - version control with git
 * 30 July 2018
 * 02 August 2018
 * 06 August 2018
