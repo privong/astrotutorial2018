@@ -2,6 +2,10 @@
 
 ## 2018
 
+### Fall
+
+*meetings will resume the week of 10 September. schedule TBD*
+
 ### Summer
 
 Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall, Room 217 (conference room).
@@ -26,8 +30,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * 30 July 2018 - meeting canceled
 * [02 August 2018](2018-Summer/20180802.md) - George observing
 * 06 August 2018
-* 09 August 2018 - last meeting of summer
-
+* 20 August 2018
 
 ### Spring
 
