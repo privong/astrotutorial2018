@@ -29,7 +29,7 @@ Summer meeting will be on Mondays and Thursdays from 16:05-16:55 in Bryant Hall,
 * [26 July 2018](2018-Summer/20180726.md) - version control with git
 * 30 July 2018 - meeting canceled
 * [02 August 2018](2018-Summer/20180802.md) - George observing
-* 06 August 2018
+* [06 August 2018](2018-Summer/20180806.md) - intro to github
 * 20 August 2018
 
 ### Spring
