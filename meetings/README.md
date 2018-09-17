@@ -4,7 +4,15 @@
 
 ### Fall
 
-*meetings will resume the week of 10 September. schedule TBD*
+Fall meetings will be on Monday mornings from 09:35-10:25 in Bryant Hall, Room 217 (conference room).
+
+* [17 September 2018](2018-Fall/20180917.md)
+    * status of `ccdproc`-based reduction scripts
+* 24 September 2018
+* 01, 08 October 2018 - no meetings
+* 15 October 2018
+* 22 October 2018
+* 29 October 2018 - no meeting
 
 ### Summer
 
